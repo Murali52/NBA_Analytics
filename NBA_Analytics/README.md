@@ -3,9 +3,10 @@ A novel physics-based features developed based on empirical on-court and injury 
 
 Content highlights (Refer also NBA Analytics Highlights document included):
 1.  Codes for data ingestion from NBA APIs, the official daily injury bulletin, CTG for Transition metrics, and NBA maps data for lat-long, elevation, and timezone information for travel processing are all included.
-2. Fatigue Index, Player Performance Index, and Travel Stress Index were developed as novel interpretable features for analysis.
-3. Statistical models (Chi-square, ANOVA), ML models for injury classification (XGB, RF) and SHAP / Feature_importance analyses are part of the analyses portfolio for injury prediction and factors identification
-4. Time-series analysis for rolling (7-day and 14-day) cumulative fatigue index and averaged performance index predictions.
+2.  A detailed Excel data attribute descriptor is included in the repository ("Data_Attribute_Descriptor.xlsx").
+3. Fatigue Index, Player Performance Index, and Travel Stress Index were developed as novel interpretable features for analysis.
+4. Statistical models (Chi-square, ANOVA), ML models for injury classification (XGB, RF) and SHAP / Feature_importance analyses are part of the analyses portfolio for injury prediction and factors identification
+5. Time-series analysis for rolling (7-day and 14-day) cumulative fatigue index and averaged performance index predictions.
 
 Murali Balasubramanian, 
 Doctoral student,
