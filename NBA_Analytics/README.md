@@ -7,6 +7,7 @@ Content highlights:
 3. Statistical models (Chi-square, ANOVA), ML models for injury classification (XGB, RF) and SHAP / Feature_importance analyses are part of the analyses portfolio for injury prediction and factors identification
 4. Time-series analysis for rolling (7-day and 14-day) cumulative fatigue index and averaged performance index predictions.
 
-Murali Balasubramanian, Doctoral student
-(DBA-AI/ML), Walsh College, MI, USA
+Murali Balasubramanian, 
+Doctoral student,
+DBA-AI/ML, Walsh College, MI, USA
 mbalas2@mail.walshcollege.edu
